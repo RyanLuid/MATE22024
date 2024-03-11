@@ -1,3 +1,13 @@
 body {
     background-color: #09090a;
-    }
+    margin: 30px;
+    padding: 10px;
+}
+.cabecalho{
+    background-color: #0000ff;
+display: flex;
+justify-content: space-around;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+text-align: center;
+}
