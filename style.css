@@ -5,9 +5,9 @@ body {
 }
 .cabecalho{
     background-color: #0000ff;
-display: flex;
-justify-content: space-around;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 20px;
-text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
 }
